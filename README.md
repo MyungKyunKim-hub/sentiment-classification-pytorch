@@ -89,7 +89,7 @@ Validation Loss는 일정 시점 이후 다시 증가하는 모습을 확인했�
 
 - Train / Validation Accuracy
 Train Accuracy와 Validation Accuracy의 변화를 비교했습니다.
-![Training and Validation Accuracy](results/accuracy_curve.png)
+![Training and Validation Accuracy](results/BaseLine_Dropout.png)
 
 - 기본 LSTM과 Dropout 모델 비교
 기본 LSTM과 Dropout을 적용한 모델의 Validation Accuracy를 비교했습니다.
